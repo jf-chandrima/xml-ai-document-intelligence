@@ -1,0 +1,6 @@
+<invoice>
+    <invoiceNumber>INV-1001</invoiceNumber>
+    <customerName>John Doe</customerName>
+    <amount>1200</amount>
+    <dueDate>2026-03-10</dueDate>
+</invoice>

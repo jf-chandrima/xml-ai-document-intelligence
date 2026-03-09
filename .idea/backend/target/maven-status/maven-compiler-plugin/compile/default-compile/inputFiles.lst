@@ -1,0 +1,5 @@
+/workspaces/xml-ai-document-intelligence/.idea/backend/src/main/java/com/document/ai/model/Invoice.java
+/workspaces/xml-ai-document-intelligence/.idea/backend/src/main/java/com/document/ai/BackendApplication.java
+/workspaces/xml-ai-document-intelligence/.idea/backend/src/main/java/com/document/ai/controller/DocumentController.java
+/workspaces/xml-ai-document-intelligence/.idea/backend/src/main/java/com/document/ai/service/PdfService.java
+/workspaces/xml-ai-document-intelligence/.idea/backend/src/main/java/com/document/ai/util/XmlParser.java

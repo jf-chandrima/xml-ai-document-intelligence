@@ -1,0 +1,5 @@
+com/document/ai/BackendApplication.class
+com/document/ai/controller/DocumentController.class
+com/document/ai/model/Invoice.class
+com/document/ai/util/XmlParser.class
+com/document/ai/service/PdfService.class
